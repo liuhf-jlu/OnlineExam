@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\test\OnlineExam\IpsCommonDBFunction\bin\Debug\IpsCommonDBFunction.dll
+C:\Users\Administrator\Desktop\test\OnlineExam\IpsCommonDBFunction\bin\Debug\IpsCommonDBFunction.pdb
+C:\Users\Administrator\Desktop\test\OnlineExam\IpsCommonDBFunction\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\test\OnlineExam\IpsCommonDBFunction\obj\Debug\IpsCommonDBFunction.dll
+C:\Users\Administrator\Desktop\test\OnlineExam\IpsCommonDBFunction\obj\Debug\IpsCommonDBFunction.pdb

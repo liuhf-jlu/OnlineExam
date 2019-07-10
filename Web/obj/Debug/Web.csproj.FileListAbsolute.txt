@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\test\OnlineExam\Web\bin\Web.dll
+C:\Users\Administrator\Desktop\test\OnlineExam\Web\bin\Web.pdb
+C:\Users\Administrator\Desktop\test\OnlineExam\Web\bin\IpsCommonDBFunction.dll
+C:\Users\Administrator\Desktop\test\OnlineExam\Web\bin\IpsCommonDBFunction.pdb
+C:\Users\Administrator\Desktop\test\OnlineExam\Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\test\OnlineExam\Web\obj\Debug\Web.dll
+C:\Users\Administrator\Desktop\test\OnlineExam\Web\obj\Debug\Web.pdb
+C:\Users\Administrator\Desktop\test\OnlineExam\Web\obj\Debug\Web.dll.licenses

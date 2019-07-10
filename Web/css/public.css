@@ -1,0 +1,140 @@
+﻿body 
+{
+    font-size: 12px;
+	color: #000033;
+	background-color: #F4F7F7;
+	background-attachment: fixed;
+	borderlight-color:#ffffff;
+	scrollbar-darkShadow-color:#919497;
+	scrollbar-3d-light-color:#919497;
+	scrollbar-arrow-color:white;
+	scrollbar-base-color:#E2F3FA;
+	scrollbar-face-color:#CDD1D3;
+	scrollbar-highlight-color:#F2FAFB;
+	scrollbar-shadow-color:#F2FAFB;
+	scrollbar-track-color:#F2FAFB;
+	text-align:center;
+}
+
+table
+{
+   border-collapse: collapse;
+	border-color: #000000;
+	border-width: 1;
+	width:100%;
+}
+tr
+{
+height:20px;
+}
+TH {
+	font-size: 12px;
+	border-color: #000000;
+	font-weight: normal;
+	background-color: #9cd1ef;
+	height: 30px;
+	padding-left: 4px;
+	padding-right: 4px;
+	text-align:left;
+	font-weight:bold;
+}
+TD
+{
+font-size:12px;
+border-color:#000000;
+}
+td.erron
+{
+color:Red;
+font-weight:bold;
+text-align:right;
+}
+td.navigation
+{
+font-weight:bold;
+height:25px;
+color:Red;
+}
+td.pagePostion
+{
+font-weight:bold;
+color:Red;
+}
+td.dian
+{
+background-image:url('../images/dian.gif');
+background-repeat:no-repeat;
+vertical-align:bottom;
+text-align:right;
+width:20px;
+}
+.button {
+	font-size: 12px;	
+	text-align: center;
+	border: 1px solid #000000;
+	height: 22px;
+	color: #000000;
+	clip: rect(0px);
+	cursor: hand;
+	margin: 1px;
+	vertical-align: baseline;
+}
+#container
+{
+margin-right:auto;
+margin-left:auto;
+width:800px;
+height:680px;
+border-color:Blue;
+border-style:solid;
+border-width:1px;
+}
+#logo_ips
+{
+background-image:url("../images/logo_ips.jpg");
+background-color:transparent;
+background-repeat:no-repeat;
+width:800px;
+height:100px;
+color:#f9ba0f;
+}
+#navigation
+{
+    height:20px;
+    background-color:#E9edf0;
+}
+#middle
+{
+    width:800px;
+    height:540px;
+}
+#function
+{
+    width:200px;
+    height:540px;
+    float:left;
+    margin-top:0px;
+    margin-left:0px;
+    text-align:left;
+    vertical-align:top;
+    background-color:#E9edf0;
+}
+#content
+{
+    width:600px;
+    margin-left:200px;
+    margin-top:-540px;
+    float:right;
+    text-align:left;
+    vertical-align:top;
+}
+#copyright
+{
+    background-image:url("../images/copyright.jpg");
+    background-color:Transparent;
+    background-repeat:no-repeat;
+    width:800px;
+    height:20px;
+    vertical-align:middle;
+}
+
